@@ -1,22 +1,21 @@
-🎓 Sistem Penerimaan Mahasiswa Baru — Laravel Web App
+<h1 align="center">Wine University 🎓 </h1>
 
-Aplikasi web untuk proses penerimaan mahasiswa baru (PMB) yang mencakup pendaftaran akun, pendaftaran calon mahasiswa baru, verifikasi admin, manajemen pembayaran, hingga pengumuman. Proyek ini dibangun menggunakan Laravel dengan beberapa library pendukung seperti Auth Facade, RealRashid SweetAlert, DomPDF, dan fitur hashing bawaan Laravel.
+# About
 
-🚀 Fitur Utama 👤 Calon Mahasiswa
+This application is an online new student registration system. There are two roles in the application: user (prospective applicant) and admin. On the main page, there are informations about the related university and the latest announcements. Users must create an account and have it validated by the admin before they can proceed with the registration
 
-Melakukan registrasi akun
+# Features
+### 👤 Calon Mahasiswa
+🔒 Login & Register <br>
+👀 View university announcement <br>
+📝 Fill and submitting the new student application form <br>
+👀 View account registration status <br>
+👀 View new student registration status <br>
+💰 Making a payment <br>
+👀 View payment status <br>
+📇 Get a temporary student card
 
-Login & logout
 
-Melihat status pendaftaran akun
-
-Mengisi dan mengirim pendaftaran mahasiswa baru
-
-Melihat status pendaftaran mahasiswa baru
-
-Melakukan konfirmasi pembayaran
-
-Melihat pengumuman
 
 🛠️ Admin
 
