@@ -24,26 +24,22 @@ This application is an online new student registration system. There are two rol
 📢 Manage announcement (CRUD)
 
 
+# Requirement
+- php >= 8.1
+- Composer
+- MySQL
 
+# Get Started
+- Install NPM dependencies:
+```
+npm isntall
+```
 
-📄 Dokumen
-
-Generate dokumen (PDF) menggunakan DOMPDF
-
-SweetAlert untuk notifikasi interaktif
-
-Keamanan autentikasi menggunakan Laravel Auth & Hash
-
-📌 Use Case Diagram
-
-🧰 Teknologi & Spesifikasi Framework
-
-Laravel 12
-
-Server Requirements
-
-PHP >= 8.1
-
-Composer
-
-MySQL
+- generate key
+```
+php artisan key:generate
+```
+- generate storage link
+```
+php artisan storage:link
+```
