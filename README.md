@@ -4,6 +4,11 @@
 
 This application is an online new student registration system. There are two roles in the application: user (prospective applicant) and admin. On the main page, there are informations about the related university and the latest announcements. Users must create an account and have it validated by the admin before they can proceed with the registration
 
+# Technologies
+- Laravel
+- Tailwind
+  
+
 # Features
 🔒 Authentication and Authorization
 
